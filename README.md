@@ -89,8 +89,8 @@ The application was created for the `Mobile Applications` course during the 6th 
   </tr>
   <tr>
     <td><img src="images/5.jpg" alt="Img5" style="display: block; height: 300px;"/></td>
-    <td></td>
     <td><img src="images/7.jpg" alt="Img7" style="display: block; height: 300px;"/></td>
+    <td><img src="images/8.jpg" alt="Img8" style="display: block; height: 300px;"/></td>
   </tr>
   <tr>
     <td colspan="3" style="text-align: center;">
