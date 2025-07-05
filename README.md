@@ -8,7 +8,7 @@
 
 Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów pierwszego stopnia na kierunku Informatyka na Politechnice Poznańskiej.
 
-### ✅ Główne cechy aplikacji:
+### ✅ Główne cechy aplikacji
 
 * Jednoosobowa gra w kości z zaimplementowanym naiwnym przeciwnikiem
 * Rejestracja użytkownika i logowanie
@@ -20,7 +20,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 * **Rzut koścmi realizowany jest przez potrząśnięcie telefonem**
 * Obsługa obracania ekranu oraz dwa motywy
 
-### 🛠️ Użyte narzędzia, języki i technologie:
+### 🛠️ Użyte narzędzia, języki i technologie
 
 * Android Studio
 * Kotlin
@@ -45,7 +45,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 
 The application was created for the `Mobile Applications` course during the 6th semester of the Bachelor's degree in Computer Science at Poznan University of Technology.
 
-### ✅ Main features of the application:
+### ✅ Main features of the application
 
 * Single-player dice game with a basic AI opponent
 * User registration and login
@@ -57,7 +57,7 @@ The application was created for the `Mobile Applications` course during the 6th 
 * **Rolling the dice is done by shaking the phone**
 * Screen rotation support and two UI themes
 
-### 🛠️ Tools, languages, and technologies used:
+### 🛠️ Tools, languages, and technologies used
 
 * Android Studio
 * Kotlin
