@@ -74,6 +74,8 @@ The application was created for the `Mobile applications` course during the 6th 
 4. In the [strings.xml](app/src/main/res/values/strings.xml) file, add your own `default_web_client_id`
 5. Run the application on an emulator or your own device
 
+<a id="gallery"></a>
+
 ### 📷 Gallery
 
 <table align="center" style="border-collapse: separate; border-spacing: 20px 10px; margin: auto;">
