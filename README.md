@@ -1,14 +1,14 @@
 # Yahtzee 🎲
 
-![Logo](images/logo.png)
+<p align="center"><img src="images/logo.png" width="150" alt="App logo"/></p>
 
-### O projekcie
+## O projekcie
 
-##### [🇬🇧 English version](#about-project)
+#### [🇬🇧 English version](#about-the-project)
 
 Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów pierwszego stopnia na kierunku Informatyka na Politechnice Poznańskiej.
 
-#### Główne cechy aplikacji:
+### Główne cechy aplikacji:
 
 * Jednoosobowa gra w kości z zaimplementowanym naiwnym przeciwnikiem
 * Rejestracja użytkownika i logowanie
@@ -20,7 +20,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 * **Rzut koścmi realizowany jest przez potrząśnięcie telefonem**
 * Obsługa obracania ekranu oraz dwa motywy
 
-#### Użyte narzędzia, języki i technologie:
+### Użyte narzędzia, języki i technologie:
 
 * Android Studio
 * Kotlin
@@ -29,22 +29,72 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 * Firebase Authentication
 * Firebase Database
 
+### Uruchomienie aplikacji
 
-This app was created as part of the "Mobile Applications" course during the 6th semester of the Computer Science engineering program at Poznan University of Technology.
+1. Sklonuj repozytorium
+2. Otwórz w Android Studio
+3. Zamień [google_services.json](app/google-services.json) na własny plik, który wygenerujesz w konsoli Firebase
+4. W pliku [strings.xml](app/src/main/res/values/strings.xml) dodaj własny `default_web_client_id`
+5. Uruchom aplikację na emulatorze lub własnym urządzeniu
 
+### [📷Galeria](#gallery)
 
-* [x] Write the press release
-* [ ] Update the website
-* [ ] Contact the media 
+## About the project
 
- That is so funny! :joy: 
+#### [🇵🇱 Wersja polska](#o-projekcie)
 
-I need to highlight these ==very important words==. 
+The application was created for the `Mobile Applications` course during the 6th semester of the Bachelor's degree in Computer Science at Poznan University of Technology.
 
- H~2~O 
+### Main features of the application:
 
-  X^2^ 
+* Single-player dice game with a basic AI opponent
+* User registration and login
+* Saving scores to a database:
+  * local, when the player is not logged in
+  * remote, when the player is logged in
+* Option to reset scores and send them via SMS
+* During gameplay, the user can see how many points they would get for each unchosen category (automatic calculations after every roll)
+* **Rolling the dice is done by shaking the phone**
+* Screen rotation support and two UI themes
 
-### About project
+### Tools, languages, and technologies used:
 
-###### [🇵🇱 Wersja polska](#o-projekcie)
+* Android Studio
+* Kotlin
+* Jetpack Compose
+* Room DB
+* Firebase Authentication
+* Firebase Database
+
+### Launching the application
+
+1. Clone the repository
+2. Open it in Android Studio
+3. Replace [google_services.json](app/google-services.json) with your own file generated in the Firebase console
+4. In the [strings.xml](app/src/main/res/values/strings.xml) file, add your own `default_web_client_id`
+5. Run the application on an emulator or your own device
+
+### 📷Gallery
+
+<table align="center" style="border-collapse: separate; border-spacing: 20px 10px; margin: auto;">
+  <tr>
+    <td><img src="images/1.jpg" alt="Img1" style="display: block; height: 300px;"/></td>
+    <td><img src="images/2.jpg" alt="Img2" style="display: block; height: 300px;"/></td>
+    <td><img src="images/3.jpg" alt="Img3" style="display: block; height: 300px;"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center;">
+      <img src="images/4.jpg" alt="Img4" style="display: inline-block; width: 600px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="images/5.jpg" alt="Img5" style="display: block; height: 300px;"/></td>
+    <td></td>
+    <td><img src="images/7.jpg" alt="Img7" style="display: block; height: 300px;"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center;">
+      <img src="images/6.jpg" alt="Img6" style="display: inline-block; width: 600px;"/>
+    </td>
+  </tr>
+</table>
