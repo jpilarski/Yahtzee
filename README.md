@@ -84,7 +84,7 @@ The application was created for the `Mobile Applications` course during the 6th 
   </tr>
   <tr>
     <td colspan="3" style="text-align: center;">
-      <img src="images/4.jpg" alt="Img4" style="display: inline-block; width: 600px;"/>
+      <img src="images/4.jpg" alt="Img4" style="display: inline-block; width: 500px;"/>
     </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ The application was created for the `Mobile Applications` course during the 6th 
   </tr>
   <tr>
     <td colspan="3" style="text-align: center;">
-      <img src="images/6.jpg" alt="Img6" style="display: inline-block; width: 600px;"/>
+      <img src="images/6.jpg" alt="Img6" style="display: inline-block; width: 500px;"/>
     </td>
   </tr>
 </table>
