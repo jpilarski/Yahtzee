@@ -1,14 +1,10 @@
 # Yahtzee 🎲
 
-<img src="images/logo.png" alt="Logo" >
-
 ![Logo](images/logo.png)
-
-<a id="polish"></a>
 
 ### O projekcie
 
-##### [🇬🇧 English version](#english)
+##### [🇬🇧 English version](#about-project)
 
 Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów pierwszego stopnia na kierunku Informatyka na Politechnice Poznańskiej.
 
@@ -49,8 +45,6 @@ I need to highlight these ==very important words==.
 
   X^2^ 
 
-<a id="english"></a>
-
 ### About project
 
-###### [🇵🇱 Wersja polska](#polish)
+###### [🇵🇱 Wersja polska](#o-projekcie)
