@@ -1,14 +1,14 @@
-# Yahtzee 🎲
+# 🎲 Yahtzee
 
 <p align="center"><img src="images/logo.png" width="150" alt="App logo"/></p>
 
-## O projekcie
+## ℹ️ O projekcie
 
 #### [🇬🇧 English version](#about-the-project)
 
 Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów pierwszego stopnia na kierunku Informatyka na Politechnice Poznańskiej.
 
-### Główne cechy aplikacji:
+### ✅ Główne cechy aplikacji:
 
 * Jednoosobowa gra w kości z zaimplementowanym naiwnym przeciwnikiem
 * Rejestracja użytkownika i logowanie
@@ -20,7 +20,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 * **Rzut koścmi realizowany jest przez potrząśnięcie telefonem**
 * Obsługa obracania ekranu oraz dwa motywy
 
-### Użyte narzędzia, języki i technologie:
+### 🛠️ Użyte narzędzia, języki i technologie:
 
 * Android Studio
 * Kotlin
@@ -29,7 +29,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 * Firebase Authentication
 * Firebase Database
 
-### Uruchomienie aplikacji
+### 🚀 Uruchomienie aplikacji
 
 1. Sklonuj repozytorium
 2. Otwórz w Android Studio
@@ -37,15 +37,15 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 4. W pliku [strings.xml](app/src/main/res/values/strings.xml) dodaj własny `default_web_client_id`
 5. Uruchom aplikację na emulatorze lub własnym urządzeniu
 
-### [📷Galeria](#gallery)
+### [📷 Galeria](#gallery)
 
-## About the project
+## ℹ️ About the project
 
 #### [🇵🇱 Wersja polska](#o-projekcie)
 
 The application was created for the `Mobile Applications` course during the 6th semester of the Bachelor's degree in Computer Science at Poznan University of Technology.
 
-### Main features of the application:
+### ✅ Main features of the application:
 
 * Single-player dice game with a basic AI opponent
 * User registration and login
@@ -57,7 +57,7 @@ The application was created for the `Mobile Applications` course during the 6th 
 * **Rolling the dice is done by shaking the phone**
 * Screen rotation support and two UI themes
 
-### Tools, languages, and technologies used:
+### 🛠️ Tools, languages, and technologies used:
 
 * Android Studio
 * Kotlin
@@ -66,7 +66,7 @@ The application was created for the `Mobile Applications` course during the 6th 
 * Firebase Authentication
 * Firebase Database
 
-### Launching the application
+### 🚀 Launching the application
 
 1. Clone the repository
 2. Open it in Android Studio
@@ -74,7 +74,7 @@ The application was created for the `Mobile Applications` course during the 6th 
 4. In the [strings.xml](app/src/main/res/values/strings.xml) file, add your own `default_web_client_id`
 5. Run the application on an emulator or your own device
 
-### 📷Gallery
+### 📷 Gallery
 
 <table align="center" style="border-collapse: separate; border-spacing: 20px 10px; margin: auto;">
   <tr>
