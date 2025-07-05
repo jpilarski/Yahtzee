@@ -4,7 +4,7 @@
 
 ## ℹ️ O projekcie
 
-#### [🇬🇧 English version](#about-the-project)
+#### [🇬🇧 English version](#ℹ️-about-the-project)
 
 Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów pierwszego stopnia na kierunku Informatyka na Politechnice Poznańskiej.
 
@@ -41,7 +41,7 @@ Aplikacja powstała na przedmiocie `Aplikacje mobilne`, na VI semestrze studiów
 
 ## ℹ️ About the project
 
-#### [🇵🇱 Wersja polska](#o-projekcie)
+#### [🇵🇱 Wersja polska](#ℹ️-o-projekcie)
 
 The application was created for the `Mobile Applications` course during the 6th semester of the Bachelor's degree in Computer Science at Poznan University of Technology.
 
